@@ -5,8 +5,8 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      <h1 className={styles.title}>Homepahe</h1>
-      <p className={styles.text}>Consectetur soluta repellat eius reprehenderit consectetur Nam quidem laboriosam cumque iusto facilis! Architecto quis eaque neque molestias officia? Similique dolorum sed ex voluptas enim? Eius alias quaerat earum dolorem dolores.</p>
+      <h1 className={styles.title}>Homepage</h1>
+      <p className={styles.text}>Amet culpa similique quo a recusandae. Unde eligendi minus aliquam aliquam nobis recusandae. Sunt alias similique fugit quae illo eius? Voluptate tempora ipsa similique iure saepe Quam minima amet eos.</p>
       <Link href="/ninjas/">
         <a className={styles.btn}>See Ninja Listing</a>
       </Link>
